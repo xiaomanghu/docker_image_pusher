@@ -7,3 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linkease/ddnsto
 nginx
+xiaoya
