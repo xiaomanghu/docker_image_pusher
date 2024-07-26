@@ -5,3 +5,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linkease/ddnsto
 rustdesk/rustdesk-server-s6
+rustdesk/rustdesk-server
