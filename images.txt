@@ -6,3 +6,4 @@ nyanmisaka/jellyfin
 linkease/ddnsto
 rustdesk/rustdesk-server-s6
 rustdesk/rustdesk-server
+--platform=linux/arm64 joplin/server
